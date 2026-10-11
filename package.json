@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demonstrasi perbedaan versi Node.js dengan Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
